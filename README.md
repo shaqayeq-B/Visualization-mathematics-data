@@ -1,4 +1,4 @@
-# Project🌟
+# Project Interactive-Data-Visualization-for-mathemtics-using-Jupyter-Notebook 🌟
 
 
 [![Based on JupyterDataViz](https://img.shields.io/badge/Based%20on-JupyterDataViz-2ea44f?style=flat&logo=github)](https://github.com/JupyterDataViz)
