@@ -14,8 +14,9 @@ This project extends **[JupyterDataViz](https://github.com/JupyterDataViz)**، a
 
 ---
 
-## 💻 Developer & Author  
+## 💻 Developer & Author (is me) 
 **Name:** Shaghayegh Bagherian
+
 **Email:** shaqayeq.bbb@gmail.com 
 **Contribution:**  
 - Sole developer & maintainer of this implementation.  
@@ -51,4 +52,4 @@ pip install -r requirements.txt
 - Core architecture: **[JupyterDataViz Team](https://github.com/JupyterDataViz)**  
 - Inspiration & support: **[EuroPython Community](https://www.europython-society.org/)**  
 - Special thanks to [My Mentor dear Vinícius]
-- 
+
